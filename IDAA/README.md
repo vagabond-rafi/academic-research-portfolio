@@ -1,1 +1,2 @@
-
+This paper explores supervised machine learning techniques for predicting user trust in customer-service chatbots, focusing on privacy and willingness to disclose personal information. It evaluates multiple classifiers and proposes a probability-based human escalation strategy for safer chatbot deployment.
+The repository includes the paper’s abstract, keywords, and DOI link in the accompanying PDF file.
