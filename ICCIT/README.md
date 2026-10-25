@@ -1,2 +1,2 @@
-This paper presents a cost-effective IoT and machine learning-based system for recommending suitable fish species using real-time water quality data and predicted dissolved oxygen levels. It combines an ESP32 microcontroller, environmental sensors, and a Telegram bot to support sustainable aquaculture.
+This paper presents a cost-effective IoT and machine learning-based system for recommending suitable fish species using real-time water quality data and predicted dissolved oxygen levels. It combines an ESP32 microcontroller, environmental sensors, and a Telegram bot to support sustainable aquaculture. The paper was published on IEEE Xplore.
 The repository includes the paper’s abstract, index terms, and DOI link in the accompanying PDF file.
