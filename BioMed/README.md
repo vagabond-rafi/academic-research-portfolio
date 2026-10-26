@@ -1,1 +1,2 @@
+Rising Chronic Kidney Disease in Bangladesh: A Hidden Crisis and a Proposal for Tech-Enabled Early Detection
 This study examines the rising burden of Chronic Kidney Disease (CKD) in Bangladesh, analyzing trends in prevalence, risk factors, healthcare infrastructure, and public health expenditure from 1999 to 2023. It also proposes a conceptual mobile-based screening application using rule-based risk assessment to support early detection, raise awareness, and improve access to screening in rural and resource-constrained communities.
