@@ -1,2 +1,2 @@
 This paper introduces LeafNet-BD, a deep learning-based approach for identifying mango varieties from leaf images using MobileNetV2. The system aims to help verify mango sapling authenticity and reduce fraudulent variety labeling in Bangladesh’s mango nursery industry.The paper was published on IEEE Xplore.
-The repository includes the paper’s abstract, index terms, and DOI link in the accompanying PDF file.
+The repository includes the paper’s abstract, index terms, and DOI link in the accompanying PDF fil
